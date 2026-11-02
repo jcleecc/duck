@@ -1,0 +1,38 @@
+# 빌드 디렉터리
+build/
+cmake-build-*/
+out/
+
+# 컴파일 산출물
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+*.pdb
+*.ilk
+*.pch
+*.gch
+
+# CMake 생성 파일
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+Makefile
+
+# IDE 설정
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.code-workspace
+
+# macOS / Windows 잡파일
+.DS_Store
+Thumbs.db
