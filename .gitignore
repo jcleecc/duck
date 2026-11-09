@@ -17,6 +17,7 @@ out/
 *.ilk
 *.pch
 *.gch
+*.sh
 
 # CMake 생성 파일
 CMakeFiles/
